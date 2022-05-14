@@ -20,7 +20,6 @@
 <div>
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/17082a2c8bd32dffc12741aeea81850f.gif" width="100" height="95" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
  </div>
-
   ![Snake animation](https://github.com/mikaellalencar/mikaellalencar/blob/output/github-contribution-grid-snake.svg)
 
 </div>
